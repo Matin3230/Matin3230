@@ -11,7 +11,7 @@
 
 ## About me:
 
-- :telescope: I'm currently Learning Full Stack Development
+- :telescope: I'm currently Learning MERN STACK
 - :mailbox: Contact me at **shaikhmatin3230@gmail.com**
 
 ## :toolbox: My Tools
