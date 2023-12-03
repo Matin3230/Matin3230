@@ -29,8 +29,8 @@
 <a href="https://www.mysql.com/" target="_blank"> ![Mysql](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=black)</a>
 <a href="https://www.mongodb.com/" target="_blank"> ![MongoDB](https://img.shields.io/badge/MongoDB-339933?style=for-the-badge&logo=mongodb&logoColor=white)</a>
 <a href="https://www.reactjs.org/" target="_blank"> ![ReactJs](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=black)</a>
-<a href="https://nodejs.org/en/" target="_blank"> ![Nodejs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)</a>
-<a href="https://expressjs.org/en/" target="_blank"> ![Expressjs](https://img.shields.io/badge/express.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)</a>
+<a href="https://nodejs.org/en/" target="_blank"> ![Nodejs](https://img.shields.io/badge/node.js-339433?style=for-the-badge&logo=nodedotjs&logoColor=white)</a>
+<a href="https://expressjs.org/en/" target="_blank"> ![Expressjs](https://img.shields.io/badge/express.js-F05032?style=for-the-badge&logo=nodedotjs&logoColor=white)</a>
 
 
 ## 💻: Coding Platform
